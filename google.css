@@ -1,0 +1,106 @@
+
+a{text-decoration: none;}
+#sol{display: inline-block;}
+#navbar{font-size: 15px;
+    
+    
+}
+#sag{float: right;
+   box-sizing: border-box;
+padding: 13px;
+}
+
+#sag a{padding:0 7px;
+    opacity: 0.85;
+    color: black;
+}#sag img{opacity: 0.7;}
+#sag img:hover{opacity: 1;}
+#sol{
+    padding: 13px;
+}
+#sol a{padding: 0 7px;
+    color: black;
+    opacity: 0.75;}
+   
+    #sol a:hover{opacity: 1;}
+   
+    #sag a:hover{opacity: 3;}
+    #app{vertical-align: middle;
+       }
+       #logo{display: flex;
+        width: 100%;
+    justify-content: center;
+align-items: center;}
+.search{
+    display: flex;
+    justify-content: center ;
+    font: 16px arial,sans-serif;
+    line-height: 34px;
+    height: 40px !important;
+    
+}
+.search1{
+width: 580px;
+height: 40px;
+margin-top: 30px;
+opacity: 0.2;
+border: 1px solid black;
+border-radius: 24px;
+position: relative;
+
+
+}
+.fa-search{position: absolute;
+color: grey;
+opacity: 0.7;
+left:400px;
+top:290px;
+}
+
+.fa-microphone{position: absolute;
+    left: 950px;
+    top:290px;
+height: 24px;
+width: 24px;
+color: blue;}
+
+.search:hover{opacity: .9;
+    cursor:text;
+padding: -50px;}
+.ara{text-align: center;}
+.ara input {
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 46px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+footer{ bottom: 0;
+    background-color: #f2f2f2;
+    font-size: 20px;
+    height: 40px;
+    position: fixed;
+    width: 100%;
+font-size: 16px;
+}
+
+    .fsol a{  padding: 10px 15px;
+        color: #5f6368;
+    }
+        
+.sagg{
+    float: right;
+    padding: 7px 10px;
+    
+}
+ 
+
